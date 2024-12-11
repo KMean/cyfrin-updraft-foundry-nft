@@ -33,7 +33,7 @@ Before starting, ensure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/cyfrin-updraft-nft.git
+git clone https://github.com/KMean/cyfrin-updraft-foundry-nft.git
 cd cyfrin-updraft-nft
 ```
 
