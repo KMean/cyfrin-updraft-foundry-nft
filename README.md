@@ -1,6 +1,6 @@
 # Cyfrin Updraft Foundry NFT Project
 
-This project is a section of of the **Cyfrin Foundry Solidity Course** and focuses on creating two different types of NFTs using Solidity:
+This project is a section of the **Cyfrin Foundry Solidity Course** and focuses on creating two different types of NFTs using Solidity:
 
 1. **IPFS Hosted NFT**  
    NFTs with metadata and assets hosted on IPFS, ensuring decentralized storage.
